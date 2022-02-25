@@ -33,7 +33,7 @@ Check out bonezone2001's version if you want to use synapse as your executor
 
 ```
 shared.runBind = Enum.KeyCode.B;
-loadstring(game:HttpGet('https://raw.githubusercontent.com/AutomatingLife/leechesbelike/main/ChessLoader'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AutomatingLife/leechesbelike/main/ChessLoader.lua'))()
 ```
 - Press the move keybind on your turn (Deafult is "B") to have the chess engine move for you :D
 - Enjoy destroying 9 year olds in chess! :)
