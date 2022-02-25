@@ -9,7 +9,7 @@ if game.PlaceId == 1268288957 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AutomatingLife/leechesbelike/main/TuningStudiosChess"))()
 elseif game.PlaceId == 6222531507 then
     print("Loading cookie chess script!")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/AutomatingLife/leechesbelike/main/eee"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AutomatingLife/leechesbelike/main/CookieChess"))()
 else
     error("Invalid game!")
 end
